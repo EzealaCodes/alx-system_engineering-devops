@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Stop a process run by a script
-pkill -f 7-highlander
